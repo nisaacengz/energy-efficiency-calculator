@@ -1,2 +1,2 @@
 # Ai-assistant
-AI powered personal assistant project
+My AI powered personal assistant.
