@@ -16,6 +16,7 @@ git clone
 https://github.com/nisaacengz/energy-efficiency-calculator.git
 ```
 No additional libraries are required for the terminal version.
+
 GUI version requires Tkinter (usually included with Python).
 
 ## How to Use
